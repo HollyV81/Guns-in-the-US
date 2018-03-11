@@ -1,0 +1,324 @@
+ID,title,city,state,month,year,target,cause,fatalities,injured,total_victims,mental_health,race,gender
+1,Texas church mass shooting,Sutherland Springs,Texas,11,2017,random,unknown,26,20,46,No,White,M
+2,Walmart shooting in suburban Denver,Thornton,Colorado,11,2017,random,unknown,3,0,3,No,White,M
+3,Edgewood businees park shooting,Edgewood,Maryland,10,2017,coworkers,unknown,3,3,6,No,Black,M
+4,Las Vegas Strip mass shooting,Las Vegas,Nevada,10,2017,random,unknown,59,527,585,Unclear,White,M
+5,San Francisco UPS shooting,San Francisco,California,6,2017,coworkers,unknown,3,2,5,Yes,Asian,M
+6,Pennsylvania supermarket shooting,Tunkhannock,Pennsylvania,6,2017,coworkers,terrorism,3,0,3,Unclear,White,M
+7,Florida awning manufacturer shooting,Orlando,Florida,6,2017,coworkers,unemployement,5,0,5,Unclear,unknown,M
+8,Rural Ohio nursing home shooting,Kirkersville,Ohio,5,2017,coworkers,unknown,3,0,3,Yes,White,M
+9,Fresno downtown shooting,Fresno,California,4,2017,random,racism,3,0,3,Unclear,Black,M
+10,Fort Lauderdale airport shooting,Fort Lauderdale,Florida,1,2017,random,terrorism,5,6,11,Yes,Latino,M
+11,Cascade Mall shooting,Burlington,Washington,9,2016,women,terrorism,5,0,5,Yes,unknown,M
+12,Baton Rouge police shooting,Baton Rouge,Louisiana,7,2016,police,unknown,3,3,6,Yes,Black,M
+13,Dallas police shooting,Dallas,Texas,7,2016,police,racism,5,11,16,Unclear,Black,M
+14,Orlando nightclub massacre,Orlando,Florida,6,2016,random,unknown,49,53,102,Unclear,Other,M
+15,"Ferguson, MO Drive by",Ferguson,Missouri,4,2016,random,unknown,0,4,4,Unknown,Unknown,Unknown
+16,"Forestville, Maryland Drive-by",Forestville,Maryland,4,2016,unknown,unknown,1,4,5,Unknown,Unknown,Unknown
+17,"Halifax County, VA",Halifax County,Virginia,4,2016,random,unknown,0,6,6,Unknown,Black American or African American,Male
+18,Tire-Slashing revenge escalation,unknown,none,4,2016,random,frustration,0,4,4,Unknown,Black American or African American,Male
+19,Chicago Rap video Shootout,Chicago,Illinois,4,2016,random,unknown,1,4,5,Unknown,Unknown,Unknown
+20,Texas family murder-suicide,unknown,Texas,4,2016,Family,domestic dispute,4,0,4,Unknown,White American or European American,Male
+21,Alabama highway random shooting,unknown,Alabama,4,2016,random,unknown,1,4,4,Yes,White American or European American,Male
+22,Long Beach Street murder,unknown,none,4,2016,random,terrorism,0,3,4,Unknown,Unknown,Unknown
+23,"Albuquerque, NM House party shooting",Albuquerque,New Mexico,4,2016,uninvited guests,anger,0,4,4,Unknown,White American or European American,Male
+24,"Memphis, TN gas station shooting",Memphis,Tennessee,4,2016,random,anger,0,4,4,Unknown,Unknown,Unknown
+25,Chicago Birthday Party Bus Shooting,Chicago,Illinois,4,2016,birthday party bus,unknown,0,5,5,Unknown,Unknown,Unknown
+26,"Albuquerque, NM Family restaurant shooting",Albuquerque,New Mexico,4,2016,Family,unknown,3,1,3,Unknown,Asian American,Male
+27,"Richmond, Virginia",Richmond,Virginia,3,2016,Trooper,frustration,2,2,3,Unknown,Black American or African American,Male
+28,"Louisburg, North Carolina",Louisburg,North Carolina,3,2016,unknown,terrorism,3,0,3,Unknown,Black American or African American,Male
+29,"Lawrenceburg, Tennessee",Lawrenceburg,Tennessee,3,2016,Family,domestic dispute,2,2,3,Unknown,Unknown,Male
+30,"Greenhill, AL Family murder-suicide",Greenhill,Alabama,3,2016,Family,domestic dispute,2,2,3,Yes,White American or European American,Male
+31,"Sherman, Texas Family Murder-Suicide",Sherman,Texas,3,2016,Family,domestic dispute,4,0,3,Unknown,Unknown,Male
+32,"Louisville, KY Family Murder-Suicide",Louisville,Kentucky,3,2016,Family,domestic dispute,4,0,3,Yes,White American or European American,Male
+33,"Plantation, Florida",Plantation,Florida,3,2016,party guests,unknown,1,4,5,Unknown,Unknown,Unknown
+34,Wetumpka Drive-by,Wetumpka,Alabama,3,2016,random,terrorism,2,2,4,Unknown,Black American or African American,Male
+35,Atlanta Nightclub shooting,Atlanta,Georgia,3,2016,random,anger,0,4,4,Unknown,Unknown,Unknown
+36,Florida Family celebration ends in shooting,unknown,Florida,3,2016,Family,unknown,0,4,4,Unknown,Unknown,Unknown
+37,"Elberton, Georgia murder-suicide",Elberton,Georgia,3,2016,Family,domestic dispute,2,2,3,Unknown,Unknown,Male
+38,"Trenton, NJ sidewalk shooting",Trenton,New Jersey,3,2016,random,unknown,0,5,5,Unknown,Unknown,Unknown
+39,Detroit Drive-by,Detroit,Michigan,3,2016,random,unknown,2,2,4,Unknown,Unknown,Unknown
+40,"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,3,2016,random,terrorism,6,3,9,Unknown,Unknown,Male
+41,Wilkinsburg BBQ cookout shootout,unknown,none,3,2016,random,terrorism,5,3,8,Unknown,Unknown,Male
+42,"Kansas City, Kansas",Kansas City,Kansas,3,2016,neighbors,unknown,5,0,5,Unknown,Some other race,Male
+43,"Lafayette, LA drive by",Lafayette,Louisiana,3,2016,random,unknown,0,4,4,Unknown,Unknown,Unknown
+44,Kansas City Home Invasion,unknown,none,3,2016,neighbors,unknown,4,0,4,Unknown,Some other race,Male
+45,"Chelsea, MA empty apartment party shooting",Chelsea,Massachusetts,3,2016,party guests,terrorism,1,6,7,Unknown,Some other race,Male
+46,"Roswell, GA Hookah shootout",Roswell,Georgia,3,2016,random,anger,0,4,4,Unknown,Black American or African American,Male
+47,Wichita Nightclub shooting,Wichita,Kansas,3,2016,random,anger,0,4,4,Unknown,Unknown,Unknown
+48,Detroit Strip Club Shootout,Detroit,Michigan,2,2016,club members,anger,0,5,5,Unknown,Black American or African American,Male
+49,Riverside restaurant shooting,unknown,none,2,2016,random,unknown,1,3,4,Unknown,Some other race,Male
+50,"Woodbridge, Virginia",Woodbridge,Virginia,2,2016,random,unknown,2,2,4,Unknown,Black American or African American,Male
+51,"Belfair, Washington",Belfair,Washington,2,2016,Family,domestic dispute,5,0,4,Unknown,White American or European American,Male
+52,Excel Industries mass shooting,Hesston,Kansas,2,2016,random,unknown,3,14,17,Unclear,Black,M
+53,"Hesston, Kansas",Hesston,Kansas,2,2016,random,psycho,4,14,17,Unknown,Black American or African American,Male
+54,"Belfair, WA Family murder-suicide",Belfair,Washington,2,2016,Family,psycho,5,0,4,Unknown,White American or European American,Male
+55,Arizona Family Murder,Glendale,Arizona,2,2016,Family,psycho,5,0,4,Unknown,White American or European American,Male
+56,Missouri Highway shooting,unknown,none,2,2016,random,unknown,1,3,4,Unknown,Black American or African American,Male
+57,Houston Drive-by,Houston,Texas,2,2016,random,unknown,0,5,5,Unknown,Unknown,Unknown
+58,Kalamazoo shooting spree,Kalamazoo County,Michigan,2,2016,random,unknown,6,2,8,Unclear,White,M
+59,"Iuka, Mississippi",Iuka,Mississippi,2,2016,Policeman,domestic dispute,2,3,4,Unknown,White American or European American,Male
+60,Florida Hookah Bar Shooting,unknown,Florida,2,2016,random,anger,1,3,4,Unknown,Unknown,Unknown
+61,Kalamazoo Uber Driver Spree Killing,unknown,none,2,2016,random,unknown,6,2,8,No,White American or European American,Male
+62,"Vallejo, CA car shooting",Vallejo,California,2,2016,random,unknown,2,2,4,Unknown,Unknown,Unknown
+63,Michigan school shooting,unknown,Michigan,2,2016,random,psycho,0,3,3,Unknown,Black American or African American,Male
+64,"Orlando, Florida",Orlando,Florida,2,2016,random,terrorism,2,10,12,Unknown,Some other race,Male
+65,Nightclub fight turns into shootout,unknown,none,2,2016,random,anger,1,7,8,Unknown,Unknown,Unknown
+66,"Tampa, FL Strip club shooting",Tampa,Florida,2,2016,random,unknown,2,6,8,Unknown,Unknown,Unknown
+67,"Los Angeles, CA street shooting",Los Angeles,California,2,2016,random,unknown,1,3,4,Unknown,Unknown,Unknown
+68,Texas teen commits family murder suicide,unknown,Texas,2,2016,Family/Neighbors,psycho,4,0,3,Unknown,White American or European American,Male
+69,New Orleans gas station shoot-out,New Orleans,Louisiana,1,2016,random,anger,0,3,3,Unknown,Black American or African American,Male
+70,"Glendale, AZ House Party shooting",Glendale,Arizona,1,2016,random,anger,3,5,8,Unknown,Unknown,Male
+71,"Caroline County, VA Family Murder Suicide",Caroline County,Virginia,1,2016,Family,psycho,2,2,3,Unknown,Unknown,Male
+72,"Chesapeake, Virginia",Chesapeake,Virginia,1,2016,Family,psycho,6,0,5,Yes,White American or European American,Male
+73,"Perris, CA Mexican restaurant shooting",Perris,California,1,2016,random,unknown,1,4,5,Unknown,Unknown,Male
+74,Florida family murder,unknown,Florida,1,2016,Family,unknown,3,0,3,Unknown,White American or European American,Male
+75,Los Angeles Drive-by,Los Angeles,California,1,2016,random,terrorism,2,2,4,Unknown,Unknown,Unknown
+76,"Gloucester County, VA, House Party",Gloucester County,Virginia,1,2016,party guests,unknown,1,3,4,Unknown,Black American or African American,Male
+77,"Wilmington, DE robbery",Wilmington,Delaware,1,2016,random,unknown,1,4,5,Unknown,Black American or African American,Male
+78,"Roadside in Memphis, Tennessee",Memphis,Tennessee,1,2016,random,unknown,1,3,4,Unknown,Unknown,Unknown
+79,"Residence in Lakeland, Florida",Lakeland,Florida,1,2016,drug dealer,unknown,3,1,4,Unknown,Black American or African American,Male
+80,"Omaha, Nebraska",Omaha,Nebraska,12,2015,random,unknown,2,3,5,Unknown,Black American or African American,Male
+81,San Bernardino mass shooting,San Bernardino,California,12,2015,random,terrorism,14,21,35,Unclear,Other,M/F
+82,"San Bernardino, California",San Bernardino,California,12,2015,party guests,terrorism,16,21,35,Unknown,Asian American,Male/Female
+83,Planned Parenthood clinic,Colorado Springs,Colorado,11,2015,random,unknown,3,9,12,Unclear,White,M
+84,"Columbus, Ohio",Columbus,Ohio,11,2015,neighbors,unknown,4,1,4,Unknown,White American or European American,Male
+85,"Minneapolis, Minnesota",Minneapolis,Minnesota,11,2015,protestors,racism,0,5,5,Unknown,White American or European American,Male
+86,"Tennessee Colony, Texas",Tennessee Colony,Texas,11,2015,random,unknown,6,0,6,Unknown,White American or European American,Male
+87,"Jacksonville, Florida",Jacksonville,Florida,11,2015,Family,domestic dispute,4,1,4,Unknown,Black American or African American,Male
+88,"Waycross, GA",Waycross,Georgia,11,2015,Family,psycho,1,2,3,Yes,Black American or African American,Male
+89,"Oakland, Maine",Oakland,Maine,11,2015,Family,domestic dispute,4,0,3,Unknown,Unknown,Male
+90,Colorado Springs,Colorado Springs,Colorado,10,2015,random,terrorism,4,0,3,Unknown,White American or European American,Male
+91,"Colerain Township, Ohio",Colerain Township,Ohio,10,2015,Family,unknown,2,1,3,Unknown,White American or European American,Male
+92,Northern Arizona University at Flagstaff Campus,Flagstaff,Arizona,10,2015,Students,anger,1,3,4,Unknown,White American or European American,Male
+93,Umpqua Community College,Roseburg,Oregon,10,2015,Students,terrorism,10,7,16,Unknown,Two or more races,Male
+94,"Inglis, Florida",Inglis,Florida,10,2015,Ex-Wife,anger,3,1,3,Unknown,White American or European American,Male
+95,Hill Haven Event Center (Formerly Club CJ's),Greenville,Georgia,9,2015,random,unknown,0,10,10,Unknown,Black American or African American,Male
+96,"Platte, South Dakota",Platte,South Dakota,9,2015,Family,unknown,6,0,5,Unknown,White American or European American,Male
+97,"Clearbrook (Greenwood), Minnesota",Clearbrook (Greenwood),Minnesota,9,2015,random,unknown,5,0,4,Yes,White American or European American,Male
+98,"Bristol, Tennessee",Bristol,Tennessee,8,2015,Family,psycho,3,1,4,Unknown,White American or European American,Male
+99,Virginia WDBJ live TV interview shooting,Roanoke,Virginia,8,2015,Coworkers,psycho,3,1,3,Unknown,Black American or African American,Male
+100,Parking lot near Boys and Girls Club,Rochester,New York,8,2015,random,unknown,3,4,7,Unknown,Black American or African American,Male
+101,"Houston, Texas",Houston,Texas,8,2015,Ex-Girlfriend,revenge,8,0,8,Unknown,Black American or African American,Male
+102,"Grand 16 Theatre, Louisiana",Lafayette,Louisiana,7,2015,random,unknown,3,9,11,Yes,White American or European American,Male
+103,Suwanee,Suwanee,Georgia,7,2015,Family,psycho,4,1,4,Unknown,White American or European American,Male
+104,"Amnicola Training Center, Chattanooga",Chattanooga,Tennessee,7,2015,Marines,terrorism,5,3,7,Yes,White American or European American,Male
+105,River Forest,River Forest,Illinois,7,2015,Family,domestic dispute,2,3,4,Unknown,Unknown,Male
+106,Boom Boom Room,Morven,North Carolina,6,2015,random,anger,0,4,4,Unknown,Black American or African American/Unknown,Male
+107,Charleston Church Shooting,Charleston,South Carolina,6,2015,random,terrorism,9,1,10,unknown,White,Male
+108,Miami Gardens,Miami Gardens,Florida,6,2015,party guests,unknown,0,4,4,Unknown,Black American or African American,Male
+109,Trestle Trail bridge shooting,Menasha,Wisconsin,6,2015,random,unknown,3,1,4,Yes,Latino,M
+110,Deer Lodge,Deer Lodge,Montana,6,2015,Family,unknown,5,0,4,Unknown,White American or European American,Male
+111,Cleveland,Cleveland,Ohio,5,2015,Ex-girlfriend,psycho,3,1,3,Unknown,Unknown,Male
+112,Conyers,Conyers,Georgia,5,2015,random,psycho,3,2,4,Unknown,White American or European American,Male
+113,Club Maxey's,Decatur,Illinois,5,2015,random,revenge,1,4,5,Unknown,Black American or African American,Male
+114,Tucson,Tucson,Arizona,5,2015,Family,psycho,5,0,4,Yes,Unknown,Male
+115,Annual motorcycle event in Newark,Newark,New Jersey,5,2015,random,terrorism,1,3,4,Unknown,Black American or African American,Male
+116,Fox Cities Trestle Trail bridge over Little Lake Butte des Morts,Menasha,Wisconsin,5,2015,random,unknown,4,1,4,Yes,Unknown,Male
+117,Milwaukee,Milwaukee,Wisconsin,5,2015,random,domestic dispute,2,3,5,No,Unknown,Male
+118,Gates Pub,Gates,New York,4,2015,random,terrorism,1,6,7,Unknown,Black American or African American,Male
+119,Killeen,Killeen,Texas,4,2015,random,unknown,2,3,5,Unknown,Black American or African American,Male
+120,Phoenix,Phoenix,Arizona,4,2015,Family,unknown,5,0,4,Unknown,Some other race,Male
+121,Rome,Rome,Georgia,4,2015,random,unknown,1,3,4,No,Black American or African American,Male
+122,Indianapolis,Indianapolis,Indiana,4,2015,random,unknown,0,5,5,No,Unknown,Male
+123,Daytona Beach,Daytona Beach,Florida,4,2015,random,unknown,0,4,4,No,Black American or African American,Male
+124,Tulsa,Tulsa,Oklahoma,3,2015,Family,unknown,4,0,3,Unknown,Asian American,Male
+125,Panama City Beach,Panama City Beach,Florida,3,2015,party guests,unknown,0,7,7,No,Black American or African American,Male
+126,Little Water,Little Water,New Mexico,3,2015,Policeman,psycho,2,2,3,Unknown,Unknown,Male
+127,Mesa,Mesa,Arizona,3,2015,random,unknown,1,5,6,No,White American or European American,Male
+128,Cottonwood,Cottonwood,Alabama,3,2015,Family,unknown,3,1,3,No,White American or European American,Male
+129,Brookhaven,Brookhaven,Mississippi,3,2015,House Owner,unknown,2,3,5,Unknown,Black American or African American,Male
+130,Tarboro,Tarboro,North Carolina,2,2015,random,terrorism,4,0,3,Yes,Black American or African American,Male
+131,Birmingham's Washington Park,Birmingham,Alabama,2,2015,Friends,psycho,1,2,3,No,Black American or African American,Male
+132,Tyrone,Tyrone,Missouri,2,2015,Family,psycho,8,1,8,No,White American or European American,Male
+133,Charlotte,Charlotte,North Carolina,2,2015,Contestant,unknown,3,0,3,No,Some other race,Male
+134,Clarkesville,Clarkesville,Georgia,2,2015,Ex-Wife,unknown,3,2,4,No,White American or European American,Male
+135,Killeen,Killeen,Texas,2,2015,random,unknown,4,1,4,No,Black American or African American,Male
+136,Chapel Hill,Chapel Hill,North Carolina,2,2015,neighbors,anger,3,0,3,No,White American or European American,Male
+137,Moon Lake,New Port Richey,Florida,2,2015,random,terrorism,3,1,4,No,White American or European American/Some other Race,Male/Female
+138,Monroeville Macy's,Monroeville,Pennsylvania,2,2015,random,unknown,0,3,3,No,Black American or African American,Male
+139,Douglasville,Douglasville,Georgia,2,2015,Family,psycho,5,2,6,No,Black American or African American,Male
+140,"King, North Carolina",King,North Carolina,2,2015,random,psycho,4,0,3,Unknown,White American or European American,Male
+141,McAvan's Pub,Syracuse,New York,2,2015,Ex-Girlfriend & Family,revenge,0,6,6,No,Black American or African American,Male
+142,LaGrange,LaGrange,Georgia,1,2015,Family,psycho,5,0,5,No,White American or European American,Male
+143,Queens,New York City,New York,1,2015,Family,psycho,4,1,4,No,Black American or African American,Male
+144,Omaha,Omaha,Nebraska,1,2015,random,terrorism,3,5,8,No,Black American or African American,Male
+145,Moscow,Moscow,Idaho,1,2015,random,psycho,3,1,4,No,Asian American,Male
+146,Memphis,Memphis,Tennessee,1,2015,party guests,anger,0,5,5,No,Black American or African American,Male
+147,"Pennsburg, Souderton, Lansdale, Harleysville", Harleysville,Pennsylvania,12,2014,Ex-Wife & Family,psycho,7,1,7,Yes,White American or European American,Male
+148,Morgantown,Morgantown,West Virginia,12,2014,Ex-Girlfriend+random,psycho,5,0,4,No,White American or European American,Male
+149,Florida State University,Tallahassee,Florida,11,2014,random,terrorism,1,3,3,Yes,Black American or African American,Male
+150,Marysville-Pilchuck High School,Marysville,Washington,10,2014,Friends,anger,5,1,5,No,Native American or Alaska Native,Male
+151,Albuquerque Auto Shop,Albuquerque,New Mexico,8,2014,Ex-Girlfriend,anger,2,3,4,No,Some other race,Male
+152,Bourbon Street New Orleans,New Orleans,Louisiana,6,2014,random,anger,1,9,10,No,Two or more races,Male
+153,Nellis Plaza,Las Vegas,Nevada,6,2014,Policeman,psycho,5,0,3,No,White American or European American,Male/Female
+154,Seattle Pacific University,Seattle,Washington,6,2014,Students,terrorism,1,2,3,Yes,Some other race,Male
+155,Isla Vista mass murder,Santa Barbara,California,5,2014,random,psycho,6,13,19,Yes,White,M
+156,Kennesaw FedEx,Kennesaw,Georgia,4,2014,Coworkers,terrorism,1,6,6,No,White American or European American,Male
+157,Fort Hood shooting 2,Fort Hood,Texas,4,2014,Policeman,psycho,3,12,15,Unclear,Latino,M
+158,Fort Hood,Killeen,Texas,4,2014,Policeman,psycho,4,16,19,Yes,Some other race,Male
+159,San Francisco Tenderloin,San Francisco,California,3,2014,random,anger,0,8,8,No,Black American or African American,Male
+160,Cedarville Rancheria Tribe,Alturas,California,2,2014,Family+random,psycho,4,2,6,No,Native American or Alaska Native,Female
+161,Centennial Hill Bar & Grill,Montgomery,Alabama,12,2013,rapper+random,anger,3,5,8,No,Black American or African American,Male
+162,Los Angeles International Airport (LAX),Los Angeles,California,11,2013,TSA Officer,anger,1,3,4,No,White American or European American,Male
+163,Sparks Middle School,Sparks,Nevada,10,2013,random,psycho,2,2,3,Unknown,Some other race,Male
+164,Washington Navy Yard,Washington D.C.,District of Columbia,9,2013,random,terrorism,13,3,15,Yes,Black American or African American,Male
+165,Oklahoma City Residence,Oklahoma City,Oklahoma,8,2013,Family,psycho,4,0,4,Yes,White American or European American,Male
+166,Homes in Desoto and Dallas,Dallas,Texas,8,2013,random,psycho,4,4,8,Unknown,Black American or African American,Male
+167,Ross Township Supervisor Council Meeting,Salisbury ,Pennsylvania,8,2013,random,psycho,3,3,6,No,White American or European American,Male
+168,Hialeah apartment shooting,Hialeah,Florida,7,2013,random,terrorism,7,0,7,Unclear,Latino,Male
+169,Santa Monica College,Santa Monica,California,6,2013,random,psycho,6,3,8,Yes,White American or European American,Male
+170,Village of Manchester in Illinois,Manchester,Illinois,4,2013,partner's family,anger,7,1,7,Unknown,White American or European American,Male
+171,Pinewood Village Apartments,Federal Way,Washington,4,2013,Girlfriend,anger,5,0,4,Unknown,Black American or African American,Male
+172,Mohawk and Herkimer Villages in New York,Mohawk,New York,3,2013,random,psycho,5,2,6,No,White American or European American,Male
+173,"Ladera Ranch, Santa Ana, Tustin and Orange",Ladera Ranch,California,2,2013,random,psycho,4,3,6,Yes,White American or European American,Male
+174,Los Angeles Police Department,Irvine,California,2,2013,Coworker's Family,anger,4,2,7,Yes,Black American or African American,Male
+175,Phoenix Law Firm,Phoenix,Arizona,1,2013,random,psycho,3,1,3,Unknown,White American or European American,Male
+176,South Valley Residence, Albuquerque,New Mexico,1,2013,Family,psycho,5,0,5,Yes,Some other race,Male
+177,Sandy Hook Elementary School,Newtown,Connecticut,12,2012,Family+students,terrorism,28,2,29,Yes,White American or European American,Male
+178,Clackamas Town Center,Happy Valley,Oregon,12,2012,random,terrorism,3,1,3,No,Some other race,Male
+179,Azana Spa in Brookfield,Brookfield,Wisconsin,10,2012,Ex-Wife,psycho,4,4,7,No,Black American or African American,Male
+180,The Spot Nightclub,Miami,Florida,9,2012,random,terrorism,0,15,15,Unknown,Black American or African American,Male
+181,Accent Signage Systems in Minneapolis,Minneapolis,Minnesota,9,2012,Ex-Coworkers,unemployement,7,2,8,Yes,White American or European American,Male
+182,Sikh Temple in Wisconsin,Oak Creek,Wisconsin,8,2012,Sikhs,racism,7,4,10,No,White American or European American,Male
+183,Aurora theater shooting,Aurora,Colorado,7,2012,random,terrorism,12,70,82,Yes,white,Male
+184,University Heights Apartments in Auburn,Auburn,Alabama,6,2012,Students,terrorism,3,3,6,Unknown,Black American or African American,Male
+185,Cafe in Seattle,Seattle,Washington,5,2012,random,psycho,6,1,6,Yes,White American or European American,Male
+186,Seattle cafe shooting,Seattle,Washington,5,2012,random,psycho,6,1,7,Yes,white,Male
+187,"North Tulsa, Oklahoma",Tulsa,Oklahoma,4,2012,black men,racism,3,2,5,No,White American or European American,Male
+188,Oikos University killings,Oakland,California,4,2012,random,terrorism,7,3,10,Yes,Asian,Male
+189,Chardon High School,Chardon,Ohio,2,2012,Students,terrorism,3,3,6,Yes,White American or European American,Male
+190,Su Jung Health Sauna shooting,Norcross,Georgia,2,2012,Family,anger,5,0,5,Yes,Asian,Male
+191,Ensley Birmingham,Birmingham,Alabama,1,2012,random,terrorism,5,0,5,No,Black American or African American,Male
+192,Salon Meritage,Seal Beach,California,10,2011,Ex-Wife,anger,8,1,9,Yes,White American or European American,Male
+193,IHOP shooting,Carson City,Nevada,9,2011,random,terrorism,5,7,12,Yes,Latino,Male
+194,Residences in Grand Rapids,Grand Rapids,Michigan,7,2011,Ex-Wife & Family,psycho,8,2,9,Yes,Black American or African American,Male
+195,Southern Union State Community College,Opelika,Alabama,4,2011,Ex-Wife & Family,anger,1,3,4,Yes,White American or European American,Male
+196,Youngstown State University,Youngstown,Ohio,2,2011,random,anger,1,11,12,Unknown,Black American or African American,Male
+197,Tucson shooting,Tucson,Arizona,1,2011,Congresswoman,terrorism,6,13,19,Yes,white,Male
+198,Hartford Beer Distributor shooting,Manchester,Connecticut,8,2010,unknown,frustration,9,2,11,No,black,Male
+199,University of Alabama in Huntsville,Huntsville,Alabama,2,2010,Coworkers,psycho,0,3,6,No,White American or European American,Female
+200,Coffee shop police killings,Parkland,Washington,11,2009,Policeman,revenge,4,1,5,Yes,black,Male
+201,Parkland Coffee Shop,Lakewood,Washington,11,2009,Policeman,revenge,5,0,4,Yes,Black American or African American,Male
+202,Fort Hood Army Base,Fort Hood,Texas,11,2009,random,terrorism,13,32,45,Yes,White American or European American,Male
+203,Binghamton shootings,Binghamton,New York,4,2009,random,terrorism,14,4,18,Yes,Asian,Male
+204,Carthage nursing home shooting,Carthage,North Carolina,3,2009,Ex-Wife,psycho,8,3,11,Yes,white,Male
+205,"Rivermark, Santa Clara, California",Santa Clara,California,3,2009,Family,psycho,6,1,6,No,Asian American,Male
+206,Pinelake Health and Rehab nursing home,Carthage,North Carolina,3,2009,Ex-Wife,psycho,8,2,10,Yes,White American or European American,Male
+207,"Geneva County, Alabama",Geneva,Alabama,3,2009,random,psycho,11,6,16,No,White American or European American,Male
+208,"Covina, California",Covina,California,12,2008,Family,psycho,10,2,11,No,White American or European American,Male
+209,University of Central Arkansas,Conway,Arkansas,10,2008,Students,terrorism,0,1,3,No,Black American or African American,Male
+210,South Mountain Community College,Phoenix,Arizona,7,2008,random,anger,0,3,3,No,Black American or African American,Male
+211,Atlantis Plastics,Henderson,Kentucky,6,2008,Coworkers,anger,7,1,7,No,White American or European American,Male
+212,Northern Illinois University shooting,DeKalb,Illinois,2,2008,Students,terrorism,5,21,26,Yes,white,Male
+213,Kirkwood City Hall,Kirkwood,Missouri,2,2008,Policeman+Council Member,terrorism,6,2,7,No,Black American or African American,Male
+214,"Carnation, Washington",Carnation,Washington,12,2007,Family,domestic disputer,6,0,6,No,White American or European American,Male/Female
+215,Mojave High School Bus,Las Vegas,Nevada,12,2007,random,terrorism,0,6,6,No,Black American or African American,Male
+216,Youth With A Mission and New Life Church,Arvada,Colorado,12,2007,random,anger,5,5,9,No,White American or European American,Male
+217,Westroads Mall shooting,Omaha,Nebraska,12,2007,random,terrorism,9,4,13,Yes,white,Male
+218,South Middle School Football Game,Saginaw,Michigan,10,2007,Students,frustration,0,4,4,No,Black American or African American,Male
+219,SuccessTech Academy,Cleveland,Ohio,10,2007,Students+Teachers,suspension,1,4,4,Yes,White American or European American,Male
+220,Crandon shooting,Crandon,Wisconsin,10,2007,party guests,anger,6,1,7,Unclear,white,Male
+221,Virginia Tech massacre,Blacksburg,Virginia,4,2007,random,terrorism,32,23,55,Yes,Asian,Male
+222,Springwater Trail High School,Gresham,Oregon,4,2007,Students,terrorism,0,10,10,No,Some other race,Male
+223,Trolley Square,Salt Lake City,Utah,2,2007,random,religious radicalism,6,4,9,Unknown,White American or European American,Male
+224,Amish school shooting,Lancaster County,Pennsylvania,10,2006,school girls,terrorism,6,5,11,No,white,Male
+225,West Nickel Mines Amish School, Lancaster,Pennsylvania,10,2006,school girls,terrorism,6,5,10,Unknown,White American or European American,Male
+226,Duquesne University,Pittsburgh,Pennsylvania,9,2006,basketball players,frustration,0,5,5,Unknown,Black American or African American,Male
+227,Orange High School,Hillsborough,North Carolina,8,2006,random,psycho,1,2,3,Yes,Some other race,Male
+228,Essex Elementary School,Essex Junction,Vermont,8,2006,Ex-GirlFriend,psycho,2,2,4,Yes,Black American or African American,Male
+229,Capitol Hill massacre,Seattle,Washington,3,2006,random,drunk,7,2,9,No,white,Male
+230,Goleta Post Office,Goleta,California,1,2006,Coworkers,psycho,8,0,7,Yes,White American or European American,Female
+231,Red Lake High School,Red Lake,Minnesota,3,2005,random,psycho,10,5,14,Yes,Native American or Alaska Native,Male
+232,Living Church of God,Brookfield,Wisconsin,3,2005,random,frustration,8,4,11,No,White American or European American,Male
+233,Tyler Courthouse,Tyler,Texas,2,2005,Ex-Wife,frustration,3,4,6,Unknown,Some other race,Male
+234,Damageplan show at the Alrosa Villa Nightclub,Columbus,Ohio,12,2004,random,frustration,5,7,11,Yes,White American or European American,Male
+235,"Birchwood, Wisconsin",Birchwood,Wisconsin,11,2004,hunters,anger,6,2,8,No,Asian American,Male
+236,Windy City Core Supply Warehouse,Chicago,Illinois,8,2003,Coworkers,unemployement,7,0,6,No,Some other race,Male
+237,Lockheed Martin shooting,Meridian,Mississippi,7,2003,random,racism,7,8,15,Yes,white,Male
+238,Case Western Reserve University,Cleveland,Ohio,5,2003,Students+Teachers,terrorism,1,2,3,No,Asian American,Male
+239,University of Arizona College of Nursing,Tucson,Arizona,10,2002,Teachers,failing exams,4,0,3,No,Some other race,Male
+240,Appalachian School of Law,Grundy,Virginia,1,2002,Students+Teachers,anger,3,3,6,No,Black American or African American,Male
+241,Santana High School, San Diego,California,3,2001,Students,terrorism,2,13,15,No,White American or European American,Male
+242,Navistar International,Melrose Park,Illinois,2,2001,Coworkers,unemployement,6,4,9,No,Black American or African American,Male
+243,Wakefield massacre,Wakefield,Massachusetts,12,2000,Coworkers,unknown,7,0,7,Yes,white,Male
+244,Radisson Bay Harbor Inn,Tampa,Florida,12,1999,Coworkers,unknown,5,3,8,No,Some other race,Male
+245,Fort Gibson Middle School,Fort Gibson,Oklahoma,12,1999,Students,unknown,0,4,4,No,White American or European American,Male
+246,Xerox killings,Honolulu,Hawaii,11,1999,random,unknown,7,0,7,Yes,Asian,Male
+247,Wedgwood Baptist Church,Fort Worth,Texas,9,1999,random,terrorism,8,7,14,Yes,White American or European American,Male
+248,Offices of All-Tech Investment Group and Momentum Securities,Atlanta,Georgia,7,1999,random,psycho,10,12,21,Yes,White American or European American,Male
+249,Heritage High School,Conyers,Georgia,5,1999,Students,breakup,0,6,6,No,White American or European American,Male
+250,Columbine High School,Littleton,Colorado,4,1999,Students+Teachers,terrorism,15,24,37,Yes,White American or European American,Male
+251,Riverside City Hall,Riverside,California,10,1998,random,terrorism,0,6,6,No,Black American or African American,Male
+252,Thurston High School,Springfield,Oregon,5,1998,Students+Parents,psycho,4,25,29,Yes,White American or European American,Male
+253,Parker Middle School Dance,Edinboro,Pennsylvania,4,1998,random,unknown,1,3,4,Yes,White American or European American,Male
+254,Westside Middle School killings,Jonesboro,Arkansas,3,1998,Students+Teachers,unknown,5,10,15,No,white,Male
+255,Connecticut State Lottery Headquarters,Newington,Connecticut,3,1998,Coworkers,anger,5,0,4,Yes,White American or European American,Male
+256,Milwaukee Post Office,Milwaukee,Wisconsin,12,1997,Coworkers,unknown,2,2,3,No,Black American or African American,Male
+257,Caltrans Maintenance Yard,Orange,California,12,1997,Ex-Coworkers,unemployement,5,2,6,No,Some other race,Male
+258,Heath High School,West Paducah,Kentucky,12,1997,prayer group,psycho,3,5,8,Yes,White American or European American,Male
+259,Pearl High School,Pearl,Mississippi,10,1997,random,psycho,2,7,9,Yes,White American or European American,Male
+260,R.E. Phelon Company,Aiken,South Carolina,9,1997,Ex-Coworkers,unemployement,4,3,7,No,Black American or African American,Male
+261,Bethel Regional High School,Bethel,Alaska,2,1997,Students+Teachers,frustration,2,2,4,Yes,White American or European American,Male
+262,San Diego State University,San Diego,California,8,1996,Teachers,unknown,3,0,3,No,White American or European American,Male
+263,Fort Lauderdale revenge shooting,Fort Lauderdale,Florida,2,1996,Ex-Coworkers,revenge,6,1,7,Yes,black,Male
+264,Frontier Junior High School,Moses Lake,Washington,2,1996,Students+Teachers,frustration,3,1,4,Yes,White American or European American,Male
+265,Richland High School,Lynnville,Tennessee,11,1995,Students+Teachers,unknown,2,1,3,Yes,White American or European American,Male
+266,Walter Rossler Company,Corpus Christi,Texas,4,1995,Coworkers,anger,6,0,5,No,Unknown,Male
+267,Montclair Post Office,Montclair,New Jersey,3,1995,random,unemployement,4,1,5,No,White American or European American,Male
+268,Downtown Chapel Hill,Chapel Hill,North Carolina,1,1995,random,psycho,2,2,4,Yes,White American or European American,Male
+269,Massachusetts Abortion Clinic,Brookline,Massachusetts,12,1994,random,terrorism,2,5,7,Yes,White American or European American,Male
+270,Wickliffe Middle School,Wickliffe,Ohio,11,1994,random,psycho,1,3,4,Yes,White American or European American,Male
+271,Fairchild Air Force Base Hospital,Fairchild Air Force Base,Washington,6,1994,psychologist+psychiatrist,anger,5,23,27,Yes,White American or European American,Male
+272,"Residence in Union, Kentucky",Union,Kentucky,5,1994,random,psycho,4,0,4,No,White American or European American,Male
+273,Chelsea High School,Chelsea,Michigan,12,1993,Coworkers,anger,1,2,3,Yes,White American or European American,Male
+274,Chuck E. Cheese in Aurora,Aurora,Colorado,12,1993,Ex-Coworkers,unemployement,4,1,5,Yes,Black American or African American,Male
+275,Long Island Rail Road Commuter Train,Garden City,New York,12,1993,random,psycho,6,19,25,No,Black American or African American,Male
+276,Central Middle School,Sheridan,Wyoming,9,1993,random,frustration,1,4,4,No,White American or European American,Male
+277,Luigi's Restaurant in Fayetteville,Fayetteville,North Carolina,8,1993,random,anger,4,8,12,No,White American or European American,Male
+278,Weber State University,Ogden,Utah,7,1993,random,frustration,1,3,3,No,Asian American,Male
+279,Offices of Pettit & Martin in San Francisco,San Francisco,California,7,1993,lawyers,frustration,9,6,14,No,White American or European American,Male
+280,Dearborn Post Office,Dearborn,Michigan,5,1993,Coworkers,frustration,2,2,3,Unknown,Unknown,Male
+281,Dana Point Post Office,Dana Point,California,5,1993,random,psycho,1,5,6,Yes,White American or European American,Male
+282,Simon's Rock College of Bard,Great Barrington,Massachusetts,12,1992,Students+Teachers,unknown,2,4,6,No,Asian American,Male
+283,Schuyler County Office Building,Watkins Glen,New York,10,1992,Social Workers,frustration,5,0,4,No,White American or European American,Male
+284,Palo Duro High School,Amarillo,Texas,9,1992,Students,anger,0,6,6,Unknown,Unknown,Male
+285,Lindhurst High School,Olivehurst,California,5,1992,Students+Teachers,failing exams,4,10,14,Yes,White American or European American,Male
+286,Royal Oak Post Office,Royal Oak,Michigan,11,1991,Ex-Coworkers,unemployement,5,5,9,Yes,White American or European American,Male
+287,University of Iowa,Iowa City,Iowa,11,1991,Coworkers,frustration,6,1,6,No,Asian American,Male
+288,"Luby's Cafeteria in Killeen, Texas",Killeen,Texas,10,1991,random,unemployement,24,20,43,Yes,White American or European American,Male
+289,Ridgewood Post Office,Ridgewood,New Jersey,10,1991,Ex-Coworkers,revenge,3,0,3,Yes,Black American or African American,Male
+290,Wat Promkunaram Buddhist Temple,Phoenix,Arizona,8,1991,monks,robbery,9,0,9,No,Asian American/Some other race,Male
+291,GMAC Loan Office,Jacksonville,Florida,6,1990,random,psycho,12,6,17,No,Black American or African American,Male
+292,Standard Gravure Corporation,Louisville,Kentucky,9,1989,Ex-Coworkers,frustration,9,12,20,Yes,White American or European American,Male
+293,Orange Glenn Post Office,Escondido,California,8,1989,random,psycho,4,1,4,No,White American or European American,Male
+294,Cleveland Elementary School,Stockton,California,1,1989,Students+Teachers,terrorism,6,30,35,Yes,White American or European American,Male
+295,New Orleans Downtown Post Office,New Orleans,Louisiana,12,1988,unknown,unknown,0,4,4,Unknown,Unknown,Male
+296,Oakland Elementary School,Greenwood,South Carolina,9,1988,Students+Teachers,psycho,2,9,11,Yes,White American or European American,Male
+297,Comet Auto Parts and Montefiore School,Chicago,Illinois,9,1988,random,terrorism,5,2,6,No,Black American or African American,Male
+298,Hubbard Woods Elementary School,Winnetka,Illinois,5,1988,Students,terrorism,2,7,8,Yes,White American or European American,Female
+299,Electromagnetic Systems Laboratory (ESL),Sunnyvale,California,2,1988,Ex-Coworkers,revenge,7,4,11,Yes,White American or European American,Male
+300,Pinellas Park High School,Pinellas Park,Florida,2,1988,unknown,frustration,1,2,3,No,White American or European American,Male
+301,Palm Bay Shopping Centers,Palm Bay,Florida,4,1987,random,psycho,6,14,20,Yes,White American or European American,Male
+302,Fergus County High School,Lewistown,Montana,12,1986,Teachers,failing exams,1,3,4,Yes,White American or European American,Male
+303,"Post office in Edmond, Oklahoma",Edmond,Oklahoma,8,1986,Coworkers,unknown,15,6,20,Yes,White American or European American,Male
+304,New York Technical College,Brooklyn,New York,8,1986,Teachers,revenge,1,4,5,Yes,Black American or African American,Male
+305,Atlanta Post Office,Atlanta,Georgia,3,1985,Coworkers,anger,2,1,3,Yes,Black American or African American,Male
+306,Goddard Junior High School,Goddard,Kansas,1,1985,Students+Teachers,unknown,1,3,4,Yes,White American or European American,Male
+307,McDonald's restaurant in San Ysidro,San Ysidro,California,7,1984,random,psycho,22,19,40,Yes,White American or European American,Male
+308,Ianni's Club in Dallas,Dallas,Texas,6,1984,random,revenge,6,1,7,Yes,White American or European American,Male
+309,49th Street Elementary School,Los Angeles,California,2,1984,Children,terrorism,3,12,14,Yes,Black American or African American,Male
+310,Johnston Post Office,Johnston,South Carolina,8,1983,postmaster,anger,1,3,4,Yes,White American or European American,Male
+311,Wah Mee Club in Seattle,Seattle,Washington,2,1983,random,terrorism,13,1,14,Unknown,Asian American,Male
+312,Welding shop in Miami,Miami,Florida,8,1982,welding shop employees,psycho,9,3,11,Yes,White American or European American,Male
+313,Valley High School,Las Vegas,Nevada,3,1982,Students+Teachers,unknown,1,2,3,Yes,White American or European American,Male
+314,University of South Carolina,Columbia,South Carolina,10,1979,Students,unknown,2,5,7,Unknown,Black American or African American,Male
+315,Grover Cleveland Elementary School,San Diego,California,1,1979,Children,terrorism,2,9,11,Yes,White American or European American,Female
+316,Cal State Fullerton,Fullerton,California,7,1976,random,terrorism,7,2,9,Yes,White American or European American,Male
+317,Los Angeles Computer Learning Center,Los Angeles,California,2,1976,Students,anger,1,7,8,Unknown,White American or European American,Male
+318,Olean High School,Olean,New York,12,1974,random,terrorism,3,7,10,No,White American or European American,Male
+319,Clara Barton Elementary School,Chicago,Illinois,1,1974,Teachers,anger,1,3,4,Yes,Unknown,Male
+320,New Orleans Police Shootings,New Orleans,Louisiana,12,1972,random,psycho,10,13,22,Yes,Black American or African American,Male
+321,St. Aloysius Church,Spokane,Washington,11,1971,random,terrorism,2,4,5,Yes,White American or European American,Male
+322,Rose-Mar College of Beauty,Mesa,Arizona,11,1966,random,terrorism,5,1,6,Yes,White American or European American,Male
+323,University of Texas at Austin,Austin,Texas,8,1966,random,terrorism,17,32,48,Yes,White American or European American,Male
