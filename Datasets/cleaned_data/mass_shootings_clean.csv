@@ -1,4 +1,4 @@
-ID,title,city,state,month,year,target,cause,fatalities,injured,total_victims,mental_health,race,gender
+SourceID,title,city,state,month,year,target,cause,fatalities,injured,total_victims,mental_health,race,gender
 1,Texas church mass shooting,Sutherland Springs,Texas,11,2017,random,unknown,26,20,46,No,White,M
 2,Walmart shooting in suburban Denver,Thornton,Colorado,11,2017,random,unknown,3,0,3,No,White,M
 3,Edgewood businees park shooting,Edgewood,Maryland,10,2017,coworkers,unknown,3,3,6,No,Black,M
