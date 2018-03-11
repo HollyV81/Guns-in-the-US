@@ -1,0 +1,51 @@
+ranking,state,grade,gun_deaths,gun_deaths_per_100k
+50,Mississippi,F,4,19.80
+48,Kansas,F,23,13.30
+48,Missouri,F,7,18.80
+47,Arizona,F,16,15.20
+46,Idaho,F,19,14.60
+45,Wyoming,F,11,17.50
+44,Alaska,F,1,23.00
+43,Louisiana,F,3,21.20
+42,Kentucky,F,13,17.50
+41,Vermont,F,36,11.00
+40,South Dakota,F,22,13.50
+39,Arkansas,F,9,17.70
+37,Montana,F,6,19.00
+37,North Dakota,F,30,11.90
+36,Alabama,F,2,21.40
+35,Maine,F,42,8.20
+32,Georgia,F,17,14.90
+32,Texas,F,28,12.10
+32,West Virginia,F,12,17.50
+31,New Hampshire,F,38,9.30
+29,New Mexico,F,8,18.20
+29,South Carolina,F,10,17.70
+27,Oklahoma,F,5,19.60
+27,Utah,F,24,12.90
+26,Florida,F,26,12.60
+25,North Carolina,D-,21,13.60
+24,Tennessee,D-,14,17.00
+23,Indiana,D-,18,14.90
+22,Nevada,D,15,16.70
+21,Ohio,D,25,12.90
+20,Virginia,D,29,12.00
+19,Nebraska,D,40,9.10
+18,Iowa,C-,39,9.20
+17,Wisconsin,C-,35,11.40
+16,Michigan,C,27,12.20
+15,Colorado,C,20,14.30
+14,Oregon,C,33,11.80
+13,Pennsylvania,C,31,11.90
+12,Minnesota,C+,44,7.60
+11,Delaware,B,37,10.90
+10,Washington,B,41,9.00
+9,Rhode Island,B+,49,4.00
+8,Illinois,B+,34,11.60
+7,Hawaii,A-,47,4.50
+6,Maryland,A-,32,11.80
+5,New York,A-,48,4.40
+4,Massachusetts,A-,50,3.40
+3,Connecticut,A-,46,4.60
+2,New Jersey,A-,45,5.50
+1,California,A,43,7.90
