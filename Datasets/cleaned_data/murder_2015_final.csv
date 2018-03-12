@@ -1,4 +1,4 @@
-city,state,2014_murders,2015_murders,change
+city,state,murders_2014,murders_2015,change
 Baltimore,Maryland,211,344,133
 Chicago,Illinois,411,478,67
 Houston,Texas,242,303,61
