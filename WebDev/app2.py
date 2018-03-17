@@ -1,3 +1,7 @@
+#################################################
+#Dependencies
+#################################################
+
 import os
 
 import pandas as pd
@@ -13,9 +17,11 @@ from flask import (Flask, render_template, jsonify, request, redirect)
 import sqlite3
 from flask import g
 
+
 #################################################
 # Database Setup
 #################################################
+
 
 engine = create_engine("sqlite:///gun_violence.sqlite")
 
@@ -29,7 +35,7 @@ Base.prepare(engine, reflect=True)
 Gun_sales = Base.classes.gun_sales
 Gun_law_grade = Base.classes.gun_law_grade
 Mass_shootings = Base.classes.mass_shootings
-#State_laws_by_year = Base.classes.state_laws_by_year
+State_laws_by_year = Base.classes.state_laws_by_year
 
 # Create our session (link) from Python to the DB
 session = Session(engine)
@@ -41,6 +47,7 @@ session = Session(engine)
 
 app = Flask(__name__)
 
+
 #################################################
 # Flask Routes
 #################################################
@@ -51,10 +58,6 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route("/graph")
-def graph():
-    return render_template('graph.html')
-
 @app.route("/about")
 def about():
     return render_template('about.html')
@@ -63,14 +66,12 @@ def about():
 def sources():
     return render_template('sources.html')
 
-@app.route("/choropleth")
-def choropleth():
-    return render_template('choropleth.html', data=[gun_sales(),states()])
 
 # Data routes
 
+
 # gun sales by type by state by year
-@app.route("/gun_dict")
+@app.route("/gun_sales")
 def gun_sales():
     results = session.query(Gun_sales.id, Gun_sales.year, Gun_sales.state, Gun_sales.handgun, Gun_sales.long_gun, Gun_sales.other).statement
     df_sales = pd.read_sql_query(results, session.bind)
@@ -84,7 +85,7 @@ def gun_sales():
            "long_gun": df_sales["long_gun"].values.tolist(),\
            "other": df_sales["other"].values.tolist()
           }
-    return sales_dict
+    return jsonify(sales_dict)
 
 # list of states
 @app.route("/states")
@@ -103,8 +104,8 @@ def states():
     df_states["state_id"] = df_state_ids["state_id"]
     df_states = df_states[["state_id","state"]]
     states_dict = {"state_id": df_states["state_id"].values.tolist(),"state": df_states["state"].values.tolist()}
-    
-    return states_dict
+    return jsonify(states_dict)
+
 
 if __name__ == "__main__":
     app.run(debug=True)

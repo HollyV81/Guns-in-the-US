@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Choropleth</title>
+
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.1/mapbox.css' rel='stylesheet' />
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+
+
+<div id='map'></div>
+<style>
+.map-legend .swatch {
+  width:20px;
+  height:20px;
+  float:left;
+  margin-right:10px;
+  }
+.leaflet-popup-close-button {
+  display: none;
+  }
+.leaflet-popup-content-wrapper {
+  pointer-events: none;
+  }
+</style>
+
+
+
+<!-- SCRIPT -->
+
+
+
+<script src='us-states.js'></script>
+
+<script>
+    var myMap = L.mapbox.map('map', 'examples.map-9ijuk24y')
+        .setView([37.8, -96], 4);
+
+    L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFydWJpbyIsImEiOiJjamU2aHdqaTgwMGpxMnFxd29sc2E3dmtyIn0.ONxJY7JvO7pewT7WKk5_Qg").addTo(myMap);
+
+    var popup = new L.Popup({ autoPan: false });
+
+    var statesLayer = L.geoJson(statesData,  {
+        style: getStyle,
+        onEachFeature: onEachFeature
+    }).addTo(myMap);
+
+    function getStyle(feature) {
+        return {
+            weight: 2,
+            opacity: 0.1,
+            color: 'black',
+            fillOpacity: 0.7,
+            fillColor: getColor(feature.properties.gun_sales)
+        };
+    }
+
+    // get color depending on population gun_sales value
+    function getColor(d) {
+        return d > 1000 ? '#800026' :
+            d > 500  ? '#BD0026' :
+            d > 200  ? '#E31A1C' :
+            d > 100  ? '#FC4E2A' :
+            d > 50   ? '#FD8D3C' :
+            d > 20   ? '#FEB24C' :
+            d > 10   ? '#FED976' :
+            '#FFEDA0';
+    }
+
+    function onEachFeature(feature, layer) {
+        layer.on({
+            mousemove: mousemove,
+            mouseout: mouseout,
+            click: zoomToFeature
+        });
+    }
+
+    var closeTooltip;
+
+    function mousemove(e) {
+        var layer = e.target;
+
+        popup.setLatLng(e.latlng);
+        popup.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+            layer.feature.properties.gun_sales + ' thousands guns sold');
+
+        if (!popup._map) popup.openOn(myMap);
+        window.clearTimeout(closeTooltip);
+
+        // highlight feature
+        layer.setStyle({
+            weight: 3,
+            opacity: 0.3,
+            fillOpacity: 0.9
+        });
+
+        if (!L.Browser.ie && !L.Browser.opera) {
+            layer.bringToFront();
+        }
+    }
+
+    function mouseout(e) {
+        statesLayer.resetStyle(e.target);
+        closeTooltip = window.setTimeout(function() {
+            myMap.closePopup();
+        }, 100);
+    }
+
+    function zoomToFeature(e) {
+        myMap.fitBounds(e.target.getBounds());
+    }
+
+    myMap.legendControl.addLegend(getLegendHTML());
+
+    function getLegendHTML() {
+    var grades = [0, 10, 20, 50, 100, 200, 500, 1000],
+    labels = [],
+    from, to;
+
+    for (var i = 0; i < grades.length; i++) {
+        from = grades[i];
+        to = grades[i + 1];
+
+        labels.push(
+        '<li><span class="swatch" style="background:' + getColor(from + 1) + '"></span> ' +
+        from + (to ? '&ndash;' + to : '+')) + '</li>';
+    }
+
+    return '<span>Total Estimated Gun Sales (Thousands)</span><ul>' + labels.join('') + '</ul>';
+    }
+    </script>
+
+
+</body>
+</html>
